@@ -1,0 +1,4 @@
+#Sun Mar 17 15:16:50 ACT 2019
+base.0=/home/alysson/AndroidStudioProjects/buscador_gifs/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
